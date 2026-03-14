@@ -1,0 +1,5 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Script Loaded",
+    Text = "Wait 5 second..",
+    Duration = 5,
+})
